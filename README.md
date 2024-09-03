@@ -11,7 +11,7 @@ https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-d
 - Optimization: Utilize optimization techniques to enhance supply chain processes.
 - Visualization: Create interactive dashboards and visualizations to present findings and facilitate data-driven decision-making.
   
-## Sales Performance Dashboard :
+## 1- Sales Performance Dashboard :
 ### Key Metrics :
 - Total Sales: The company achieved total sales of $33.05 million. This metric indicates the overall revenue generated from all sales activities.
 - Average Sale Per Order: Each order averaged $503. This metric helps in understanding the average value of each transaction.
@@ -26,7 +26,7 @@ https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-d
 ### Dashboard :
 ![Sales Performance](https://github.com/user-attachments/assets/8da7c3a0-cf9d-4d02-b57a-b61c8bc23beb) 
 
-## Order Analytics Dashboard :
+##  2- Order Analytics Dashboard :
 ### Key Metrics :
 - Total Orders: The company processed a total of 65,750 orders, indicating a high volume of transactions.
 - Average Sale Per Order: On average, each order was valued at $503.
@@ -41,7 +41,7 @@ https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-d
 ### Dashboard :
 ![Order Analytics](https://github.com/user-attachments/assets/441b4f5f-0b92-4363-b77c-e768e605d18a)
 
-## Product Details Dashboard  :
+## 3- Product Details Dashboard  :
 ### Key Metrics :
 - Tottal Product : Total Product is 118.
 - Product Quantity Sold: A total of 3.84K products were sold, reflecting a significant volume of sales.
@@ -55,7 +55,7 @@ https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-d
 ### Dashboard :
 ![Product Details](https://github.com/user-attachments/assets/e053df5b-403e-42ec-9c5c-4cc0aaee8371)
 
-## Delivery Tracking Dashboard :
+## 4- Delivery Tracking Dashboard :
 ### Insights :
 - Total Late Deliveries by Market Name: The pie chart shows that the majority of late deliveries are concentrated in specific markets, with LATAM having the highest number of late deliveries.
 - Total Profit by Delivery Status: The bar graph indicates that the highest profits are associated with on-time deliveries, while late deliveries contribute significantly less to the overall profit.
@@ -66,7 +66,7 @@ https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-d
 ### Dashboard :
 ![Delivery Tracking](https://github.com/user-attachments/assets/eeb263ed-686c-4ab1-9d0b-3bf08b29e79a)
 
-## Customer Activity Dashboard : 
+## 5- Customer Activity Dashboard : 
 ### Key Matrics :
 - Total Customer: The company served 20,650 customers.
 - Customer Recurring : A recurring rate of 12.22K suggests that a significant portion of customers are returning, reflecting customer satisfaction and loyalty.
