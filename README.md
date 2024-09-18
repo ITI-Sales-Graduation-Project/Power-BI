@@ -24,7 +24,7 @@ https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-d
 - Total Sales by Store : Store in Califorina State achieved the highest sales of 5,470,306.4 million ,followed by Store in Morovis State and New York .
 - Sales Growth Rate by Year : Sales growth has been declining over the years.
 ### Dashboard :
-![Sales Performance](https://github.com/user-attachments/assets/8da7c3a0-cf9d-4d02-b57a-b61c8bc23beb) 
+![Sales performance Dashoard](https://github.com/user-attachments/assets/6c8df916-1c1b-44d6-9e4c-e9a34dbf5a39)
 
 ##  2- Order Analytics Dashboard :
 ### Key Metrics :
@@ -39,7 +39,7 @@ https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-d
 - Total order by ship mode.
 - Total orders Deliverd to Market.
 ### Dashboard :
-![Order Analytics](https://github.com/user-attachments/assets/441b4f5f-0b92-4363-b77c-e768e605d18a)
+![Order Analytics Dashboard](https://github.com/user-attachments/assets/b056aef6-d724-4f97-a4af-97d440835ecc)
 
 ## 3- Product Details Dashboard  :
 ### Key Metrics :
@@ -53,7 +53,7 @@ https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-d
 - Quantity Sold in Each Market: This pie chart breaks down the quantity of products sold in different markets. It offers a visual representation of market distribution, showing which markets have the highest sales volumes.
 - Total Product on Each Department: This bar graph shows the total number of product on each department.
 ### Dashboard :
-![Product Details](https://github.com/user-attachments/assets/e053df5b-403e-42ec-9c5c-4cc0aaee8371)
+![Product Details Dashbard](https://github.com/user-attachments/assets/321c194c-0ef9-4694-9700-30fb8062c8c9)
 
 ## 4- Delivery Tracking Dashboard :
 ### Insights :
@@ -64,7 +64,7 @@ https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-d
 - AVG Receipt and Schedule Days for Shipping vs Delivery Status: The line graph compares the average receipt and scheduled days for shipping against the delivery status, showing that delays often occur when the scheduled days are underestimated.
 - Delivery Status by Shipping Method: The bar graph illustrates that certain shipping methods are more prone to delays, suggesting a need to review and optimize shipping processes.
 ### Dashboard :
-![Delivery Tracking](https://github.com/user-attachments/assets/eeb263ed-686c-4ab1-9d0b-3bf08b29e79a)
+![Delivery Tracking Dashbard](https://github.com/user-attachments/assets/971929d0-2a86-4eb4-a71e-a66c18c41339)
 
 ## 5- Customer Activity Dashboard : 
 ### Key Matrics :
@@ -80,7 +80,7 @@ https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-d
 - Customer Churn Rate Over Years: The line graph shows fluctuations in the customer churn rate from 2016 to 2020, indicating periods of higher customer turnover.
 - Total Customers by Market: The donut chart displays the distribution of customers across various markets, highlighting the most significant markets for the business.
 ### Dashboard :
-![Customer Activity](https://github.com/user-attachments/assets/769818a4-16f5-4feb-bfb3-3e34bf8c990d)
+![Customer Activity Dashboard](https://github.com/user-attachments/assets/67481328-3ff2-47dc-a64a-a228d69d64f2)
 
 
   
