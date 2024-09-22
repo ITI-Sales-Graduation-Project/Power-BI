@@ -24,7 +24,7 @@ https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-d
 - Total Sales by Store : Store in Califorina State achieved the highest sales of 5,470,306.4 million ,followed by Store in Morovis State and New York .
 - Sales Growth Rate by Year : Sales growth has been declining over the years.
 ### Dashboard :
-![Sales performance Dashoard](https://github.com/user-attachments/assets/6c8df916-1c1b-44d6-9e4c-e9a34dbf5a39)
+![Sales Dashboard](https://github.com/user-attachments/assets/53a4def2-14c7-4239-92d0-8bf5ec4d161f)
 
 ##  2- Order Analytics Dashboard :
 ### Key Metrics :
@@ -39,7 +39,7 @@ https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-d
 - Total order by ship mode.
 - Total orders Deliverd to Market.
 ### Dashboard :
-![Order Analytics Dashboard](https://github.com/user-attachments/assets/b056aef6-d724-4f97-a4af-97d440835ecc)
+![Order Analytics Dashboard(1)](https://github.com/user-attachments/assets/7db7450c-8809-4398-b456-1a1640b0bda5)
 
 ## 3- Product Details Dashboard  :
 ### Key Metrics :
@@ -53,7 +53,7 @@ https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-d
 - Quantity Sold in Each Market: This pie chart breaks down the quantity of products sold in different markets. It offers a visual representation of market distribution, showing which markets have the highest sales volumes.
 - Total Product on Each Department: This bar graph shows the total number of product on each department.
 ### Dashboard :
-![Product Details Dashbard](https://github.com/user-attachments/assets/321c194c-0ef9-4694-9700-30fb8062c8c9)
+![Product Details Dashboard](https://github.com/user-attachments/assets/49e4da40-b40a-4ede-8c02-adf6a16cc00a)
 
 ## 4- Delivery Tracking Dashboard :
 ### Insights :
@@ -64,7 +64,7 @@ https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-d
 - AVG Receipt and Schedule Days for Shipping vs Delivery Status: The line graph compares the average receipt and scheduled days for shipping against the delivery status, showing that delays often occur when the scheduled days are underestimated.
 - Delivery Status by Shipping Method: The bar graph illustrates that certain shipping methods are more prone to delays, suggesting a need to review and optimize shipping processes.
 ### Dashboard :
-![Delivery Tracking Dashbard](https://github.com/user-attachments/assets/971929d0-2a86-4eb4-a71e-a66c18c41339)
+![Delivery Tracking Dashboard](https://github.com/user-attachments/assets/e444cfd7-7705-41b8-9d72-3c2c541d5950)
 
 ## 5- Customer Activity Dashboard : 
 ### Key Matrics :
